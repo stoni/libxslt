@@ -1,0 +1,8 @@
+win32/Makefile
+win32/bin.msvc/*
+win32/config.msvc
+win32/int.exslt.msvc/*
+win32/int.exslta.msvc/*
+win32/int.utils.msvc/*
+win32/int.xslt.msvc/*
+win32/int.xslta.msvc/*
